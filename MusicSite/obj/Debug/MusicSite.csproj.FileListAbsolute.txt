@@ -1,0 +1,18 @@
+D:\My Folder\ASP.net\MusicSite\MusicSite\bin\MusicSite.dll
+D:\My Folder\ASP.net\MusicSite\MusicSite\bin\MusicSite.pdb
+D:\My Folder\ASP.net\MusicSite\MusicSite\obj\Debug\ResolveAssemblyReference.cache
+D:\My Folder\ASP.net\MusicSite\MusicSite\obj\Debug\MusicSite.dll
+D:\My Folder\ASP.net\MusicSite\MusicSite\obj\Debug\MusicSite.pdb
+D:\web-dev\web development\MusicSite\MusicSite\bin\MusicSite.dll
+D:\web-dev\web development\MusicSite\MusicSite\bin\MusicSite.pdb
+D:\web-dev\web development\MusicSite\MusicSite\obj\Debug\MusicSite.dll
+D:\web-dev\web development\MusicSite\MusicSite\obj\Debug\MusicSite.pdb
+D:\git\allblack\MusicSite\bin\MusicSite.dll
+D:\git\allblack\MusicSite\bin\MusicSite.pdb
+D:\git\allblack\MusicSite\bin\DataBaseLayer.dll
+D:\git\allblack\MusicSite\bin\DataBaseLayer.pdb
+D:\git\allblack\MusicSite\obj\Debug\MusicSite.csprojResolveAssemblyReference.cache
+D:\git\allblack\MusicSite\obj\Debug\MusicSite.dll
+D:\git\allblack\MusicSite\obj\Debug\MusicSite.pdb
+D:\git\allblack\MusicSite\bin\BusinessLogicLayer.dll
+D:\git\allblack\MusicSite\bin\BusinessLogicLayer.pdb

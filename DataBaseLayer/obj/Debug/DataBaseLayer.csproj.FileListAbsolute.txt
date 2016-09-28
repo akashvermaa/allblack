@@ -1,0 +1,4 @@
+D:\git\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\git\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\git\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\git\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.pdb

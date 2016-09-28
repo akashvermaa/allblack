@@ -1,0 +1,139 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="MusicSite.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="Style/footer.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="container-fluid">
+        <header id="header">
+            <nav class="navbar navbar-inverse navbar-fixed-top">
+                <div class="container-fluid" style="background:#004c70">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        
+                    </div>
+                    <div class="container">
+                        <div id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li> <a href="Home.aspx">Home</a></li>
+                                <li><a href="English.aspx">English</a></li>
+                                <li><a href="Punjabi.aspx">Punjabi</a></li>
+                                <li><a href="Bollywood.aspx">Bollywood</a></li>
+                                <li><a href="#">Spanish</a></li>
+                                <li><a href="#">Haryanvi</a></li>
+                                <li><a href="#">Eminem</a></li>
+                                <li><a href="#">Portugese</a></li>
+                                <li><a href="#">Rap</a></li>
+                                <li><a href="upload.aspx">Upload</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>                
+            </nav>           
+        </header>
+    </div>
+    <div style="margin-top: 1em">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <hr />
+    <footer class="footer1">
+        <div class="container">
+  <div class="row">        
+                <div class="col-lg-3 col-md-3">
+                <ul class="list-unstyled clear-margins">
+                        	<li class="widget-container widget_nav_menu">
+                                <ul>
+                                	<li><a  href="#"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Success Stories</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> PG Courses</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Achiever's Batch</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Regular Batch</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Test & Discussion</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Fast Track T & D</a></li>
+                                </ul>      
+							</li>
+                        </ul>   
+                </div>
+                <div class="col-lg-3 col-md-3">
+                <ul class="list-unstyled clear-margins">
+                        	<li class="widget-container widget_nav_menu">
+                                <ul>
+ 									<li><a  href="#"><i class="fa fa-angle-double-right"></i>  Test Series Schedule</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Postal Coaching</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  PG Dr. Bhatia Books</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  UG Courses</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Satellite Education</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Study Centres</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  State P.G. Mocks</a></li>
+                                    <li><a  href="#" target="_blank"><i class="fa fa-angle-double-right"></i> Results</a></li
+                                </ul
+							</li
+                        </ul>
+                </div>
+                <div class="col-lg-3 col-md-3">    
+                <ul class="list-unstyled clear-margins">     
+                        	<li class="widget-container widget_nav_menu">    
+                                <ul>
+                <li><a href="#"><i class="fa fa-angle-double-right"></i> Enquiry Form</a></li>
+ 				<li><a href="#"><i class="fa fa-angle-double-right"></i> Online Test Series</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Grand Tests Series</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Subject Wise Test Series</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Smart Book</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Test Centres</a></li>
+                <li><a href="#"><i class="fa fa-angle-double-right"></i>  Admission Form</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li
+                                </ul>
+							</li>
+                        </ul>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                        <ul class="list-unstyled clear-margins">
+                        	<li class="widget-container widget_recent_news">
+                              
+                                <div class="footerp"> 
+                                <h2 class="title-median">Best Music Pvt. Ltd.</h2>
+                                <p><b>Email id:</b> <a href="#">privacyismyth.com</a></p>
+                                <p><b>Helpline Numbers </b>
+
+    <b style="color:#ffc106;">(8AM to 10PM):</b>  +91-8130890090, +91-8130190010  </p>
+    <p><b>Corp Office / Postal Address</b></p>
+    <p><b>Phone Numbers : </b>7042827160, </p>
+    <p> 011-27568832, 9868387223</p>
+                                </div>
+                                <div class="social-icons">
+                                	<ul class="nomargin">
+                <a href="#"><i class="fa fa-facebook-square fa-3x social-fb" id="social"></i></a>
+	            <a href="#"><i class="fa fa-twitter-square fa-3x social-tw" id="social"></i></a>
+	            <a href="#"><i class="fa fa-google-plus-square fa-3x social-gp" id="social"></i></a>
+	            <a href="#"><i class="fa fa-envelope-square fa-3x social-em" id="social"></i></a>
+                                    
+                                    </ul>
+                                </div>
+                    		</li>
+                          </ul>
+                       </div>
+                </div>
+</div>
+</footer>
+    </form>
+</body>
+</html>

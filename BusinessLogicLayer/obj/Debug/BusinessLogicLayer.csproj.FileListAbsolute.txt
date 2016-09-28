@@ -1,0 +1,7 @@
+D:\git\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\git\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\git\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\git\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\git\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\git\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\git\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
